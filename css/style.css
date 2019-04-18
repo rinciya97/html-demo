@@ -1,0 +1,30 @@
+#myprg
+      {
+     
+     	width: 600px;
+     	margin: auto;
+
+
+     }
+blockquote
+     {
+     	border-style: solid;
+     	padding: 5px;
+     	border-color: black;
+     	text-align: center;
+     	margin-left: 0px;
+
+
+     }
+h1
+     {   
+        color:orange;
+      }
+h3
+      {
+         color:green;
+       }
+p
+       {
+         color:purple;
+       }
